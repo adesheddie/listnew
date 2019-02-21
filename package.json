@@ -1,0 +1,61 @@
+{
+  "name": "classified",
+  "version": "1.0.0",
+  "description": "Node only application",
+  "main": "server1.js",
+  "private": true,
+
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server1.js"
+  },
+  "engines": {
+    "node": "10.15.0",
+    "npm": "6.4.1"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "isodate": "^0.1.4",
+    "moment": "^2.22.2",    
+    "nodemailer-templation": "^0.1.4",
+    "officegen": "^0.4.5",
+    "sequelize": "^4.38.1",
+    "bcrypt": "^3.0.4",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "jwt-simple": "^0.5.5",
+    "mongodb": "^3.1.13",
+    "mongojs": "^2.6.0",
+    "mongoose": "^5.4.14",
+    "multer": "^1.4.1",
+    "typescript": "~3.2.2",
+    "nodemailer": "^5.1.1",
+    "zone.js": "~0.8.26",
+
+
+
+
+    "cloudinary": "^1.13.2",
+    "core-js": "^2.5.4",
+   
+    "dateformat": "^3.0.3",
+  
+    
+  
+    "ngx-owl-carousel": "^2.0.7",
+    "ngx-toastr": "^9.1.1",
+  
+    "owl.carousel": "^2.3.4",
+    "rxjs": "~6.3.3",
+    "rxjs-compat": "^6.4.0",
+   
+    "tslib": "^1.9.0"
+   
+  }
+  
+ 
+ 
+}
